@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React_blog_site/static/css/main.24cebdc8.css",
+    "main.js": "/React_blog_site/static/js/main.dbb0aef7.js",
+    "static/media/nature3.jpg": "/React_blog_site/static/media/nature3.dd5eb08b2aae239b5454.jpg",
+    "static/media/img1.jpg": "/React_blog_site/static/media/img1.42c7a0387c5c8eea1f38.jpg",
+    "static/media/nature4.jpg": "/React_blog_site/static/media/nature4.8da86cf04f1267065b1b.jpg",
+    "static/media/nature1.jpg": "/React_blog_site/static/media/nature1.7cc90c79ec9004f5ff21.jpg",
+    "static/media/new_img2.jpg": "/React_blog_site/static/media/new_img2.840dcb490dad094aa31b.jpg",
+    "static/media/background.jpg": "/React_blog_site/static/media/background.f29252b6530b58e8c26c.jpg",
+    "static/media/background1.jpg": "/React_blog_site/static/media/background1.c9712fb1a61d7ec5026f.jpg",
+    "static/media/new_img1.jpg": "/React_blog_site/static/media/new_img1.ed138868d8e77c232e6e.jpg",
+    "index.html": "/React_blog_site/index.html",
+    "main.24cebdc8.css.map": "/React_blog_site/static/css/main.24cebdc8.css.map",
+    "main.dbb0aef7.js.map": "/React_blog_site/static/js/main.dbb0aef7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24cebdc8.css",
+    "static/js/main.dbb0aef7.js"
+  ]
+}
